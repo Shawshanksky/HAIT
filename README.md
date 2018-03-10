@@ -13,3 +13,6 @@ HAIT contains
 		ICA
 			please read especially mylib/ICA.py. (this is main code of ICA algorithm)
 			results of ICA locates at kadai*.ipynb.
+
+		PCA
+			
